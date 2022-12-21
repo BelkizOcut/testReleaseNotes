@@ -1,6 +1,6 @@
 Test script
 
-Release notes
+# Release notes
 Compared with version 
 
 Coding favorites have been deprecated and will be replaced by enhanced line templates.
@@ -13,3 +13,4 @@ Specifying what version to install when running the script.
 * $Test = "20841" for 218.4.1
 
 
+## Release 2022.01
