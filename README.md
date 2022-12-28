@@ -19,7 +19,7 @@ Specifying what version to install when running the script.
 * Azure AD in&nbsp; <span>Improves<span>&nbsp;user's properties are.&nbsp;&nbsp;</span></span><br>
 
 * Bug Fixes
- * Improves. <br>
+   * Improves. <br>
 ### Release  2022.09 
 
 * Improvements
