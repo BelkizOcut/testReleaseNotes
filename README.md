@@ -11,15 +11,7 @@ Paging/"scroll for more" in lookups (account, items, ..) are under development.
 Line templates
 Specifying what version to install when running the script.
 * $Test = "20841" for 218.4.1
- ### Release 2022.09
 
-* Improvements
-* Improves varied with the length of name.
-* Test&nbsp; Adds support. release notes.&nbsp; <br>
-* Azure AD in&nbsp; <span>Improves<span>&nbsp;user's properties are.&nbsp;&nbsp;</span></span><br>
-
-* Bug Fixes
-   * Improves. <br>
 ### Release  2022.09 
 
 * Improvements
