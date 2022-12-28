@@ -19,7 +19,7 @@ The position previously name.
   *  testar 
 
   * Azure  
-Improves  changes to the user's properties.  
+      * Improves  changes to the user's properties.  
 
 * Bug Fixes
   * Improves in the 
