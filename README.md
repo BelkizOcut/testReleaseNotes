@@ -11,20 +11,6 @@ Paging/"scroll for more" in lookups (account, items, ..) are under development.
 Line templates
 Specifying what version to install when running the script.
 * $Test = "20841" for 218.4.1
- ### Release 2022.12
-
-* Improvements
-  * Improves of the buttons
-      *The position with the name.
-  * Testar 
-
-  * Azure sign-in 
-      *Improves how changes properties are handled.  
-
-* Bug Fixes
-  * Improves in the 
-      *In mode, of the forms causing errors.
-
 
 
  ### Release 2022.09
