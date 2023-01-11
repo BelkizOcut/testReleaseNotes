@@ -32,7 +32,7 @@ Specifying what version to install when running the script.
 * Improvements
   * Improves buttons
 The position previously name.
-  *  testar 
+  *  testar. Read more about summarized invoices in future release notes.
 
   * Azure  
       * Improves  changes to the user's properties.  
