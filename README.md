@@ -4,6 +4,20 @@ Test script
 
 
 ## Release notes
+ ### Release 2022.11
+
+* Improvements
+  * Improves positioning of the approval buttons
+      * The position of the name.
+  * Test 
+
+  * Test sign-in 
+      * Improves how changes to the properties
+
+* Bug Fixes
+  * Improves in the 
+      * In mode, causing unwanted errors.
+
 
 Compared with version 
 
