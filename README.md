@@ -3,7 +3,8 @@ Test script
 Test script
 
 
-# Release notes
+## Release notes
+
 Compared with version 
 
 Coding favorites have been deprecated and will be replaced by enhanced line templates.
