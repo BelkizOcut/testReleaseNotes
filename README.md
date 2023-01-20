@@ -11,7 +11,6 @@ Test script
    * Improves positioning of the approval buttons 
        * The position previously varied with the length of the vendor name. 
    * Summarized invoices  
-
    * Azure AD sign-in  
        * Improves how changes to the user's properties are handled.  
 
