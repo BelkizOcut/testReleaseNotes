@@ -9,6 +9,14 @@ Test script
 
  * Improvements
    * Improves positioning of the approval buttons 
+       * The position previously varied with the length of the vendor name. 
+   * Summarized invoices&#160; 
+"
+ 
+"### Release 2023.01
+
+ * Improvements
+   * Improves positioning of the approval buttons 
        * The position previously varied with the length of the vendor name. "
  ### Release 2022.11
 
