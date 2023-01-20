@@ -5,44 +5,7 @@ Test script
 
 ## Release notes
  
-"### Release 2023.01
 
- * Improvements
-   * Improves positioning of the approval buttons 
-       * The position previously varied with the length of the vendor name. 
-   * Summarized invoices&#160; 
-
-   * Azure AD sign-in&#160; 
-       * Improves&#160;how changes to the user&#39;s properties are handled.&#160;&#160;
-
- * Bug Fixes
-   * Improves session timeout in the preview 
-       * In preview mode, the landing page (inbox) could expire independently of the approval forms causing unwanted session timeouts. 
-"
- 
-"### Release 2023.01
-
- * Improvements
-   * Improves positioning of the approval buttons 
-       * The position previously varied with the length of the vendor name. 
-   * Summarized invoices&#160; 
-
-   * Azure AD sign-in&#160; 
-       * Improves&#160;how changes to the user&#39;s properties are handled.&#160;&#160;"
- 
-"### Release 2023.01
-
- * Improvements
-   * Improves positioning of the approval buttons 
-       * The position previously varied with the length of the vendor name. 
-   * Summarized invoices&#160; 
-"
- 
-"### Release 2023.01
-
- * Improvements
-   * Improves positioning of the approval buttons 
-       * The position previously varied with the length of the vendor name. "
  ### Release 2022.11
 
 * Improvements
