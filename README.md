@@ -4,6 +4,12 @@ Test script
 
 
 ## Release notes
+ 
+"### Release 2023.01
+
+ * Improvements
+   * Improves positioning of the approval buttons 
+       * The position previously varied with the length of the vendor name. "
  ### Release 2022.11
 
 * Improvements
