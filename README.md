@@ -10,10 +10,9 @@ Test script
   * Improves positioning of the approval buttons
       * The position of the name.
   * Test 
-
   * Test sign-in 
       * Improves how changes to the properties
-
+      * 
 * Bug Fixes
   * Improves in the 
       * In mode, causing unwanted errors.
@@ -24,7 +23,6 @@ Test script
   * Improves positioning of the approval buttons
       * The position of the name.
   * Test 
-
   * Azure sign-in 
       * Improves how changes to the properties
 
