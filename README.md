@@ -8,7 +8,11 @@ Test script
 
 
  ### Release 2022.11
-
+ 
+ Available for non-production Webs: 02/02/2023
+ 
+ Planned Production date:
+ 
 * Improvements
   * Improves positioning of the approval buttons
      * The position of the name.
